@@ -1,5 +1,2 @@
-//creating a collection
-db.school
-
 //inserting documents in mongoDB
-db.school.insertOne({"name": "Holberton school"})
+db.school.insert({"name": "Holberton school"})
