@@ -1,5 +1,4 @@
--- creates a trigger that resets the attribute
--- valid_email only when the email has been changed.
+-- Initial
 DROP TABLE IF EXISTS users;
 
 CREATE TABLE IF NOT EXISTS users (
